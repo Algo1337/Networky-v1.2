@@ -1,3 +1,10 @@
+"""
+    [ Shitcord, An advanced version of discord.py ]
+
+    @author: Algorithm
+    @since: 8/4/24
+    @github: https://github.com/AdvancedAlgorithm
+"""
 import os, time, threading, discord, importlib
 
 class DiscordMessage():
